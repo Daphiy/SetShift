@@ -1,0 +1,104 @@
+{
+	"Questions" : [ 
+		{ 
+			"id" : 0, 
+			"question": "Gender", 
+			"answer1" : "Male", 
+			"answer2" : "Female", 
+			"answer3" : "Other", 
+			"answer4" : "Prefer not to say" 
+		}, 
+		{ 
+			"id" : 1, 
+			"question": "Age", 
+			"answer1" : "<18", 
+			"answer2" : "18-24", 
+			"answer3" : "25-34", 
+			"answer4" : "35-54",
+			"answer5" : "55-64",
+			"answer6" : "65-74",
+			"answer7" : "75+"
+		}, 
+		{ 
+			"id" : 2, 
+			"question": "Education", 
+			"answer1" : "Less than High School", 
+			"answer2" : "High School Diploma", 
+			"answer3" : "Bachelors", 
+			"answer4" : "Masters",
+			"answer5" : "PhD"
+		}, 
+				{ 
+			"id" : 3, 
+			"question": "Little interest or pleasure in doing things?", 
+			"answer1" : "Not at all", 
+			"answer2" : "Several days", 
+			"answer3" : "More than half the days", 
+			"answer4" : "Nearly every day"
+		}, 
+		{ 
+			"id" : 4, 
+			"question": "Feeling down, depressed, or hopeless?", 
+			"answer1" : "Not at all", 
+			"answer2" : "Several days", 
+			"answer3" : "More than half the days", 
+			"answer4" : "Nearly every day"
+		},
+		{ 
+			"id" : 5, 
+			"question": "Trouble falling or staying asleep, or sleeping too much?	", 
+			"answer1" : "Not at all", 
+			"answer2" : "Several days", 
+			"answer3" : "More than half the days", 
+			"answer4" : "Nearly every day"
+		},
+		{ 
+			"id" : 6, 
+			"question": "Feeling tired or having little energy?", 
+			"answer1" : "Not at all", 
+			"answer2" : "Several days", 
+			"answer3" : "More than half the days", 
+			"answer4" : "Nearly every day"
+		},
+		{ 
+			"id" : 7, 
+			"question": "Poor appetite or overeating?", 
+			"answer1" : "Not at all", 
+			"answer2" : "Several days", 
+			"answer3" : "More than half the days", 
+			"answer4" : "Nearly every day"
+		},
+		{ 
+			"id" : 8, 
+			"question": "Feeling bad about yourself - or that you are a failure or have let yourself or your family down?", 
+			"answer1" : "Not at all", 
+			"answer2" : "Several days", 
+			"answer3" : "More than half the days", 
+			"answer4" : "Nearly every day"
+		},
+		{ 
+			"id" : 9, 
+			"question": "Trouble concentrating on things, such as reading the newspaper or watching television?", 
+			"answer1" : "Not at all", 
+			"answer2" : "Several days", 
+			"answer3" : "More than half the days", 
+			"answer4" : "Nearly every day"
+		},
+		{ 
+			"id" : 10, 
+			"question": "Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?", 
+			"answer1" : "Not at all", 
+			"answer2" : "Several days", 
+			"answer3" : "More than half the days", 
+			"answer4" : "Nearly every day"
+		},
+		{ 
+			"id" : 11, 
+			"question": "Thoughts that you would be better off dead, or of hurting yourself in some way?", 
+			"answer1" : "Not at all", 
+			"answer2" : "Several days", 
+			"answer3" : "More than half the days", 
+			"answer4" : "Nearly every day"
+		}
+	]
+}

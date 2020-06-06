@@ -1,0 +1,60 @@
+{
+	"Questions" : [ 
+		{ 
+			"id" : 1, 
+			"question": "Did you enjoy the questionnaire and the game?", 
+			"answer1" : "I did not enjoy either.", 
+			"answer2" : "I enjoyed the questionnaire, but not so much the game.", 
+			"answer3" : "I enjoyed the game, but not so much the questionnaire.", 
+			"answer4" : "I liked both very much :)"
+		}, 
+		{ 
+			"id" : 2, 
+			"question": "Did you understand the rules", 
+			"answer1" : "I was always guessing and had no idea what was going on.", 
+			"answer2" : "I understood the rules of the first game round and part of the second round but not the rest.", 
+			"answer3" : "I feel I understood most of the rules but was uncertain at times.", 
+			"answer4" : "I am confident I understood everything."
+		},
+		{ 
+			"id" : 3, 
+			"question": "Did you understand the purpose of this task?	", 
+			"answer1" : "I have no idea what this was about and I am not interested.", 
+			"answer2" : "I did not really understand the purpose but would be interested in finding out more.", 
+			"answer3" : "I understood it somewhat after reading up on set-shifting and the TNU.", 
+			"answer4" : "I think You are trying to find a correlation between how variable people percieve their environment and depression. This will become more obvious when you feed the results through a Hierarchical Bayesian Filter!"
+		},
+		{ 
+			"id" : 4, 
+			"question": "How do you think you had to use the feedback.", 
+			"answer1" : "The feedback was only there to confuse me! I trust in my guessing capabilities.", 
+			"answer2" : "I only paid attention to the feedback when it was 'correct'. I felt that the 'wrong' feedback would not help me.", 
+			"answer3" : "The feedback was somewhat useful but I did not always trust it.", 
+			"answer4" : "I carefully analysed both the 'correct' and 'wrong' feedback to learn whether I had to match by color, shape or number. I was only somewhat confused by the tricky feedback you included in the latter rounds."
+		},
+		{ 
+			"id" : 5, 
+			"question": "How did you feel doing the task?", 
+			"answer1" : "I did not really get into it so was neither motivated by 'correct' replies nor demotivated by 'wrong' feedback.", 
+			"answer2" : "I felt bad everytime I got something wrong, as felt I was doing badly.", 
+			"answer3" : "I was happy when I got right answers but somewhat frustrated by wrong ones.", 
+			"answer4" : "I realise this is not a competition or a diagnostic test but nonetheless felt motivated by 'correct' feedback, while 'wrong' feedback made me think harder which I enjoyed."
+		},
+		{ 
+			"id" : 6, 
+			"question": "Which question did you feel you performed best in?", 
+			"answer1" : "I performed equally bad or well in all tasks.", 
+			"answer2" : "I performed best in the first task.", 
+			"answer3" : "I performed best on the second task.", 
+			"answer4" : "I performed best on the third task."
+		},
+		{ 
+			"id" : 7, 
+			"question": "Would you send this to your friends?", 
+			"answer1" : "No.", 
+			"answer2" : "Maybe.", 
+			"answer3" : "Yes.", 
+			"answer4" : "I already have!"
+		}
+	]
+}

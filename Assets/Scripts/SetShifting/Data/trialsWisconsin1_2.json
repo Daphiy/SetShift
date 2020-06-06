@@ -1,0 +1,7 @@
+{
+    "Trials" : 
+         {
+             "cardsDeck": ["3Ytriangle", "4Rcircle", "2Gcircle", "1Rstar", "2Gsquare", "3Ytriangle", "1Ycircle", "3Btriangle", "1Bstar", "2Ystar", "2Ycircle", "1Gtriangle", "1Bcircle", "2Ytriangle", "4Ytriangle", "3Rcircle", "2Gstar", "1Rtriangle", "2Bsquare", "3Ycircle", "3Rstar", "2Ycircle", "1Bcircle", "4Ytriangle", "4Rstar", "4Bsquare", "4Ystar", "4Gcircle", "2Gstar", "3Rstar", "1Gsquare", "3Gstar", "2Rcircle"], 
+             "answers":   [1,             2,          4,          2,        4,          1,            1,          3,            3,        1,        1,          3,            4,          3,            3,            4,          1,        3,            2,          4,          1,        4,          1,          4,            4,          4,          4,        4,          2,        3,        1,          3,        2]
+         }
+}
