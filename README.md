@@ -15,11 +15,11 @@ As this task includes a questionnaire about depression, the data has to be saved
 I do this by generating a random number between 0 and 100000 for each participant that enters the game. This is then their id throughout the game. Every action the participant makes in the game is saved in a separate row on google sheets, in the following format: 
 id, phase, trial, response, time
 
-id = randomly generated id 
-phase = what task/ questionnaire
-trial = current trial number within the phase 
-response = user's response 
-time = time taken to respond 
+- id = randomly generated id 
+- phase = what task/ questionnaire
+- trial = current trial number within the phase 
+- response = user's response 
+- time = time taken to respond 
 
 # File overview 
 
