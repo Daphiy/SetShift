@@ -7,7 +7,7 @@ This behavioural task consists of two games :
 1. A slight variation of the Wisconsin Card Sorting Task, where one card has to be matched to one of 4 piles 
 2. A similiar task but with two cards, where the goal is to determine if they match or not 
 
-It is very easy to adapt the code to similiar types of tasks, for example by changing the cards to a different type of stimuli. 
+The code can be adapted to similiar types of tasks, for example by changing the cards to a different type of stimuli. 
 
 # Anonymised data 
 
@@ -21,9 +21,11 @@ id, phase, trial, response, time
 - response = user's response 
 - time = time taken to respond 
 
+It is easily possible to save more information if needed.  
+
 # File overview 
 
-I implemented it in Unity, coding in C#.  
+I implemented the game in Unity, coding in C#.  
 
 The code is in Assets\Scripts\SetShifting
 
@@ -31,4 +33,4 @@ The questionnaire and feedback questions are in Assets\Scripts\SetShifting\Data
 
 The stimuli (different cards and instruction images) are in Assets\Sprites 
 
-The plug-in for saving data remotely is in Assets\RemoteLogger
+The plug-in for saving data remotely on google sheets is in Assets\RemoteLogger
