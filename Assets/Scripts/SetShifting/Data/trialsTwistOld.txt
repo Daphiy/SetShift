@@ -1,8 +1,0 @@
-{
-	"Trials" : 
-		{ 
-			"cardsLeft": [3Ysquare, 1Rstar, 3Ystar, 3Bcircle, 2Gcircle, 3Bsquare], 
-			"cardsRight": [2Ytriangle, 4Rsquare, 1Ycircle, 3Rcircle, 2Ysquare, 3Gstar],
-			"answers" : [si, si, si, no, no, no]
-		}
-}
