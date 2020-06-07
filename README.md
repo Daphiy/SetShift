@@ -11,8 +11,8 @@ It is very easy to adapt the code to similiar types of tasks, for example by cha
 
 # Anonymised data 
 
-As this task includes a questionnaire about depression, the data has to be saved in a completely anonymised manner. I do this by generating a random number between 0 and 100000 for each participant that enters the game. This is then their id throughout the task. 
-Every action the participant makes in the game is saved in a separate row on google sheets, in the following format: 
+As this task includes a questionnaire about depression, the data has to be saved in a completely anonymised manner. 
+I do this by generating a random number between 0 and 100000 for each participant that enters the game. This is then their id throughout the game. Every action the participant makes in the game is saved in a separate row on google sheets, in the following format: 
 id, phase, trial, response, time
 
 id = randomly generated id 
