@@ -4,8 +4,15 @@ This is an implementation of a behavioural task with a questionnaire at the begi
 If you want to asjust this code for your purposes (another behavioural task), feel free to contact me at daphiya@gmail.com
 
 This behavioural task consists of two games : 
-1. A slight variation of the Wisconsin Card Sorting Task, where one card has to be matched to one of 4 piles 
-2. A similiar task but with two cards, where the goal is to determine if they match or not 
+1. Wisconsin, a slight variation of the Wisconsin Card Sorting Task, where one card has to be matched to one of 4 piles 
+2. Twist, a similiar task but with two cards, where the goal is to determine if they match or not 
+
+The game is organizes as follows:
+1. PHQ-9 Questionnaire
+2. Wisconsin
+3. Twist
+4. Wisconsin again
+5. Optional Feedback Questions 
 
 The code can be adapted to similiar types of tasks, for example by changing the cards to a different type of stimuli. 
 
