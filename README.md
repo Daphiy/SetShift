@@ -7,14 +7,14 @@ This behavioural task consists of two games :
 1. Wisconsin, a slight variation of the Wisconsin Card Sorting Task, where one card has to be matched to one of 4 piles 
 2. Twist, a similiar task but with two cards, where the goal is to determine if they match or not 
 
-The game is organizes as follows:
+The game is organized as follows:
 1. PHQ-9 Questionnaire
-2. Wisconsin
+2. Wisconsin (round 1)
 3. Twist
-4. Wisconsin again
+4. Wisconsin (round 2)
 5. Optional Feedback Questions 
 
-The code can be adapted to similiar types of tasks, for example by changing the cards to a different type of stimuli, and by changing the questionnaire. 
+The code can be adapted to similiar tasks, for example by changing the cards to a different type of stimuli, and by changing the questionnaire. 
 
 # Anonymised data 
 
