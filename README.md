@@ -1,4 +1,4 @@
-# A custom behavioural task 
+# A behavioural task + questionnaire
 
 This is an implementation of a behavioural task with a questionnaire at the beginning and feedback questions at the end. 
 If you want to adjust this code for your purposes (another behavioural task), feel free to contact me at daphiya@gmail.com
